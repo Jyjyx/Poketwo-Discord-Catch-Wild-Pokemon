@@ -14,3 +14,4 @@ npm install discord.js
 node main
 
 ```
+https://user-images.githubusercontent.com/96808849/216432074-c93f1abb-8bb5-44d3-90b4-e87d710a68c6.mp4
