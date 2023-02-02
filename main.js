@@ -36,6 +36,7 @@ bot.on("messageCreate", async message => {
     {
       if (message.embeds[0].title === "A wild pokémon has appeared!")
     {
+      console.log("A pokemon has appeared.")
       const start = performance.now();
       var image_url = message.embeds[0].image.url;
       var pokemon = await main(image_url);
